@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010837962500",
+    "project_id": "everyoungllc",
+    "storage_bucket": "everyoungllc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010837962500:android:31c9a7ad0f115402e69a51",
+        "android_client_info": {
+          "package_name": "com.example.foreveryoungclinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQfkl-OvCHvaEIWDJtP_Rz3nlz7p3tU6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
